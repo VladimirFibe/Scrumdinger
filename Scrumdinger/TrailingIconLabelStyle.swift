@@ -1,10 +1,3 @@
-//
-//  TrailingIconLabelStyle.swift
-//  Scrumdinger
-//
-//  Created by Vladimir Fibe on 1/7/23.
-//
-
 import SwiftUI
 
 struct TrailingIconLabelStyle: LabelStyle {
