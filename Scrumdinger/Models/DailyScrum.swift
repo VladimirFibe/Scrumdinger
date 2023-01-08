@@ -41,7 +41,7 @@ extension DailyScrum {
     mutating func update(from data: Data) {
         title = data.title
         attendees = data.attendees
-        lengthInMinutes = Int(lengthInMinutes)
+        lengthInMinutes = Int(data.lengthInMinutes)
         theme = data.theme
     }
 }

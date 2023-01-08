@@ -45,7 +45,6 @@ struct DetailEditView: View {
                 Text("Attendees")
             }
 
-
         }
     }
 }
